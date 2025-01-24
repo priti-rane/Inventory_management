@@ -24,4 +24,4 @@ This project is an Inventory Management System developed using Python. It aims t
 3. **Run the Notebook:** Open the `Inventory_Management_System.ipynb` notebook in Google Colab.
 4. **Follow the Menu:** Use the interactive menu to navigate and perform different actions.
 
-## Example Usage
+
